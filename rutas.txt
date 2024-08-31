@@ -1,0 +1,5 @@
+http://localhost/tallerBasicoPhp/EJERCICIO1/Ejercicio1.php
+
+http://localhost/tallerBasicoPhp/EJERCICIO2/Ejercicio2.php
+
+http://localhost/tallerBasicoPhp/EJERCICIO3/Ejercicio3.php

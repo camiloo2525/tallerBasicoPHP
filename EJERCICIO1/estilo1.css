@@ -1,0 +1,37 @@
+/* body */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    color: #333;
+    background-color: #f4f4f4;
+}
+
+/* color para el titulo principal h1 */
+h1 {
+    color: #007BFF;
+    text-align: center;
+}
+
+/* Estilo para h3 */
+h3 {
+    color: #333;
+}
+
+/* espacio entre los parrafos */
+p {
+    margin: 5px 0;
+}
+
+/* hr separar cada estudiante */
+hr {
+    border: 0;
+    height: 1px;
+    background: #ddd;
+    margin: 20px 0;
+}
+
+/* color para el encabezado del estudiante con el promedio más alto */
+h2 {
+    color: #28a745;
+    text-align: center;
+}
